@@ -1,5 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+#Overall these functions will be able to calculate and store the inverse of a 
+# matrix within an object so that the inverse matrix will not have to be
+# calculated every time it is needed
 
 ## Write a short comment describing this function
 # This function takes in a matrix and creates a new object that can have its inverse cached
